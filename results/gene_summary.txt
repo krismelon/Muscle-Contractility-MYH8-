@@ -1,0 +1,4 @@
+Gene symbol: MYH8
+NCBI Gene ID: 4626
+Official name: myosin heavy chain 8
+Chromosome: 17
